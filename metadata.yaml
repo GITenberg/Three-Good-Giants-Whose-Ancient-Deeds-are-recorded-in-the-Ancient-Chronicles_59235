@@ -1,5 +1,5 @@
 _repo: Three-Good-Giants-Whose-Ancient-Deeds-are-recorded-in-the-Ancient-Chronicles_59235
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Robida, Albert
@@ -22,6 +22,9 @@ contributor:
     gutenberg_agent_id: '1896'
     url: http://www.gutenberg.org/2009/agents/1896
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+covers:
+- cover_type: archival
+  image_path: 59235-h/images/cover.jpg
 creator:
   author:
     agent_name: Rabelais, François
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/551
     wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59235#Three-Good-Giants-Whose-Ancient-Deeds-are-recorded-in-the-Ancient-Chronicles
 gutenberg_issued: '2019-04-09'
 gutenberg_type: Text
 identifiers:
