@@ -1,0 +1,50 @@
+_repo: Three-Good-Giants-Whose-Ancient-Deeds-are-recorded-in-the-Ancient-Chronicles_59235
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Albert_Robida
+    - https://en.wikipedia.org/wiki/Albert_Robida
+  - agent_name: Doré, Gustave
+    aliases:
+    - Doré, Louis Auguste Gustave
+    - Dorè, Gustave
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+creator:
+  author:
+    agent_name: Rabelais, François
+    aliases:
+    - Nasier, Alcofribas
+    - Rabelais, Francis
+    - Rabelais, Francois
+    - Alcofrybas, Maistre
+    gutenberg_agent_id: '551'
+    url: http://www.gutenberg.org/2009/agents/551
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais
+description: ''
+gutenberg_issued: '2019-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Three Good Giants
+
+  Whose Ancient Deeds are recorded in the Ancient Chronicles'
+url: http://www.gutenberg.org/ebooks/59235
